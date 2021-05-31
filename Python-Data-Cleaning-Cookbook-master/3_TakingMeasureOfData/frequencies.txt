@@ -1,0 +1,12 @@
+gender
+
+-----------------------
+
+frequencies
+
+Female    4385
+Male      4599
+Name: gender, dtype: int64
+
+percentages
+
